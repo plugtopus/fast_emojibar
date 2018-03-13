@@ -1,0 +1,22 @@
+.emoji_smile_container {
+    margin-bottom: -10px !important;
+    margin-top: -7px;
+    margin-bottom: 6px; //margin-left: 61px;
+    margin-left: 7px;
+    color: #dee1e6;
+    text-align: center;
+}
+
+.emoji_smile_cont2 {
+    display: inline-block;
+    position: relative;
+    padding: 5px 4px;
+    margin-right: 1px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.emoji_smile_cont2:hover {
+    background: #ebeef2;
+    border-radius: 3px;
+}
